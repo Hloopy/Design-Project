@@ -1,0 +1,71 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: content-box;
+}
+
+.Listone {
+    margin-left: 50px;
+}
+
+.Lists {
+    margin-left: 40%
+}
+
+.BTIGraph {
+    font-size: 350px;
+    background-image: url('BTIGraph.PNG');
+    /*Couldn't figure out how to get the image when I'd have liked it be in "Images And Such"--> 'Website images'--> 'other'*/
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: 100% 100%;
+}
+
+.margin{
+    margin-left:10px;
+}
+
+.T1 {
+    border-collapse: collapse;
+    background-color: white;
+    margin: 1px auto;
+    border-color: black;
+}
+
+td{
+    height: 200px;
+    padding-left:40px;
+    padding-right:40px;
+    width:150px;
+}
+
+.fixed {
+    background-color: black;
+    color: white;
+    position:fixed;
+    width:10000px;
+    height: 100px;
+    padding:15px;
+}
+
+.center{
+    margin:auto;
+}
+
+table {
+    width: 800px;
+}
+
+.top-secret {
+    color:rgb(131, 37, 37);
+    margin-left:27px;
+}
+
+.top-secret:hover {
+    background-color: green;
+    color:blue;
+}
+
+a {
+    color:cornflowerblue;
+}
